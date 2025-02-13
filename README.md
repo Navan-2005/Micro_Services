@@ -1,1 +1,2 @@
 # Micro_Services
+This repository contains the backend implementation of a microservices architecture, demonstrating how different services—such as User, Captain, and Ride—communicate with each other using RabbitMQ.
